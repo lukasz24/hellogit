@@ -108,5 +108,11 @@
         <github>asiatbg</github>
         <group>KrDZIs3012Io</group>
 </student>
-
-</students>
+<student>
+	<firstname>Lukasz</firstname>
+	<lastname>Pudzisz</lastname>
+	<email>s187924@uek.krakow.pl</email>
+	<github>lukasz24</github>
+	<group>KrDZIs3013Io</group>
+</student>
+<students>
